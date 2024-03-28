@@ -14,6 +14,5 @@
 4) Repeat Song
 
 ![Destop-veiw](/images/MUSIC%20PLAYER%20IMAGE.png)
-![Destop-veiw](/images/Responsiveness.png)
 
 ##### THANKS
