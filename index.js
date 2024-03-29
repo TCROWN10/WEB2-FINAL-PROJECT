@@ -22,37 +22,37 @@ let updateTimer;
 
 const music_list = [
     {
-        img : '/images/Beller.png',
+        img : './images/Beller.png',
         name : 'Loner',
         artist : ' Bella Shmurda',
         music : 'music/Bella Shmurda - Loner (NetNaija.com).mp3'
     },
     {
-        img : '/images/Davido&olamide.png',
+        img : './images/Davido&olamide.png',
         name : 'The Money',
         artist : 'Davido , Olamide',
         music : 'music/Davido_-_The_Money_(ft._Olamide)_(www.NETNAIJA.com).mp3'
     },
     {
-        img : '/images/Steve-crown.png',
+        img : './images/Steve-crown.png',
         name : 'You Are Yahweh',
         artist : 'Steve Crown',
         music : 'music/music4.mp3'
     },
     {
-        img : '/images/Jehovah.png',
+        img : './images/Jehovah.png',
         name : ' Jehovah ',
         artist : 'Tope Alabi , Victor Ademofe',
         music : 'music/music5.mp3'
     },
     {
-        img : '/images/STEVE.png',
+        img : './images/STEVE.png',
         name : ' WE WAIT ON YOU ',
         artist : 'Steve Crown',
         music : 'music/music6.mp3'
     },
     {
-        img : '/images/EmmaohmyGod.png',
+        img : './images/EmmaohmyGod.png',
         name : ' WONDERS',
         artist : 'EmmaOhMaGod',
         music : 'music/music2.mp3'
